@@ -1,4 +1,4 @@
-Patient Management Microservices
+## Patient Management Microservices
 
 A learning project that explores a patient management system built as a set of Spring Boot microservices. The repository includes separate service areas for patient management, billing, analytics, API requests, and gRPC requests.
 
